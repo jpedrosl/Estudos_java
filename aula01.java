@@ -41,4 +41,8 @@ public class aula01 {
         System.out.println("seu cadastro esta ativo!");
     }
 }
-
+//alt+shift+f identa todo o codigo
+//ctrl+k+ctrl+d formata o documento
+//ctrl+shift+p abre a paleta de comandos
+//ctrl+space abre a sugestão de código
+//ctrl+shift+f formata o código
