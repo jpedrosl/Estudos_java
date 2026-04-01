@@ -1,3 +1,5 @@
+package aula1;
+
 import java.util.Scanner;
 //import java.util importa bibliotecas util
 public class aula01 {
