@@ -14,14 +14,18 @@ public class exe2 {
         String senha = ln.nextLine();
 
         while(nome.equals(senha)){ //equals é para string e == é para numerico
+            
             System.out.println("seu nome nao pode ser igual a sua senha ");
+            
             System.out.println("digite novamente o seu nome ");
             nome = ln.nextLine();
+            
             System.out.println("digite sua senha");
             senha = ln.nextLine();
             
         } 
         
         
+
     }
 }

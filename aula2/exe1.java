@@ -4,7 +4,7 @@ package aula2;
 
 import java.util.Scanner;
 
-public class aula2 {
+public class exe1 {
     public static void main(String[] args) {
         Scanner ln = new Scanner(System.in);
 
